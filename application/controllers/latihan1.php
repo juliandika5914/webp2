@@ -13,7 +13,7 @@ public function penjumlahan($n)
 
     echo "NAMA : JULIAN DIKA YUDA PRATAMA <br/>";
     echo "NIM : 17200066 <br/>";
-    echo "KELAS : 17.4J.01 <br/>";
+    echo "KELAS : 17.6J.01 <br/>";
   }
 }
 ?>
