@@ -2,5 +2,5 @@
 
 #HASIL SCREENSHOT
 
-![img 1](ss.png)
+![img 1](ss2.png)
 
